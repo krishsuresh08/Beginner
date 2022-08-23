@@ -1,5 +1,5 @@
 #tuple
-'''tu=(10,25,89,90,40,30)
+tu=(10,25,89,90,40,30)
 print('Tuple value is :',tu)
 print('Type is :',type(tu))
 
@@ -34,11 +34,11 @@ print(tu[1:])
 
 print(tu[:-1])
 print(tu)
-print(tu[::-1])'''  #reversing
+print(tu[::-1]) #reversing
 
 #Assignment 1)Unpacking a list
 
-'''a,b,*c,d,e=['a','b','Ashok','John','Puvan','Suresh',1,2]
+a,b,*c,d,e=['a','b','Ashok','John','Puvan','Suresh',1,2]
 print(a)
 print(c)
 print(e)
@@ -56,4 +56,4 @@ print(type(tu))
 str(tu)
 z=str(tu)
 print(z)
-print(type(z))'''
+print(type(z))
